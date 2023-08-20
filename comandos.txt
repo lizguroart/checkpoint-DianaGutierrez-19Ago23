@@ -1,0 +1,50 @@
+  145  git status
+  146  git commit -m "mi primer commit"
+  147  fit status
+  148  git status
+  149  git pull otigin main
+  150  git pull origin main
+  151  git status
+  152  cd DIGITALHOUSE
+  153  cd IntroInformatica
+  154  mkdir checkpoint-DianaGutierrez-19Ago23
+  155  cd checkpoint-DianaGutierrez-19Ago23
+  156  git remote add origin https://github.com/lizguroart/checkpoint-DianaGutierrez-19Ago23.git
+  157  touch main.js index.html
+  158  git branch -M main
+  159  git init
+  160  git add .
+  161  git commit -m "commit 01 DianaGutierrez"
+  162  git push origin main
+  163  git push -u origin main
+  164  git remote add origin https://github.com/lizguroart/checkpoint-DianaGutierrez-19Ago23.git
+  165  git push origin main
+  166  git remote add origin https://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@github.com/lizguroart/checkpoint-DianaGutierrez-19Ago23.git
+  167  git push -u origin main
+  168  git checkout -b feature
+  169  mkdir Hardware Software SeguridadInformatica
+  170  git status
+  171  ls
+  172  touch cd/Hardware resumen.txt
+  173  cd Hardware
+  174  touch resumen.txt
+  175  cd .. 
+  176  cd Software
+  177  touch resumen.txt
+  178  cd ..
+  179  cd SeguridadInformatica
+  180  touch resumen.txt
+  181  git add .
+  182  git commit -m "commit 02 DianaGutierrez"
+  183  git push origin feature
+  184  cd ..
+  185  git add .
+  186  git commit -m "commit 03 DianaGutierrez"
+  187  git push origin feature
+  188  git checkout main
+  189  mv main.js resumenHardware.txt
+  190  mv index.html resumenSoftware.txt
+  191  nano resumenSoftware.txt
+  192  nano resumenHardware.txt
+  193  touch comandos.txt
+  194  history 50 > comandos.txt
